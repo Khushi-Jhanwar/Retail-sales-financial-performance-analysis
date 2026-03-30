@@ -1,4 +1,4 @@
-# Retail Sales Performance & Pricing Optimization Analysis
+# Retail Sales & Financial Performance Analysis(Revenue & Pricing Optimization Analysis)
 
 ## 📊 Project Overview
 This project focuses on analyzing retail sales data to evaluate revenue, profit, and discount impact across regions and categories. The goal is to derive actionable insights to improve pricing strategies and business performance.
